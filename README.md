@@ -1,4 +1,4 @@
-# Discord Text Classification Bot - README
+# Discord Text Classification Bot 
 
 This Discord bot utilizes the Google Gemini Pro API to analyze the content of messages and classify them as "Neutral/Acceptable", "Hate Speech", or "Offensive/Vulgar". It provides a basic moderation tool for Discord servers by flagging messages that fall outside the "Neutral/Acceptable" category.
 
@@ -52,4 +52,4 @@ Before running the bot, ensure you have the following:
 
 ## Disclaimer
 
-This bot provides a basic moderation tool. The accuracy of the classification depends on the capabilities of the Gemini Pro model. It is essential to monitor the bot's performance and implement additional moderation measures as needed.
+This bot provides a basic moderation tool. The accuracy of the classification depends on the capabilities of the old data that this model has been trained on. Expection state of the art classification accuracy is simply foolish.
