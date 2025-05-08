@@ -53,4 +53,4 @@ Before running the bot, ensure you have the following:
 
 ## Disclaimer
 
-This bot provides a basic moderation tool. The accuracy of the classification depends on the capabilities of the old data that this model has been trained on. Expection state of the art classification accuracy is simply foolish.
+This bot provides a basic moderation tool. The accuracy of the classification depends on the capabilities of the old data that this model has been trained on. Expectting state of the art classification accuracy, from this model= is simply foolish.
